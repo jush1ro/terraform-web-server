@@ -1,4 +1,4 @@
-# Provision Highly Availabe Web in any Region Default VPC
+# Provision Highly Availabe Web in AWS any Region Default VPC
 
 ### Setup variables in tfvars file and environment variable for you aws instance
 ```
