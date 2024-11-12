@@ -6,6 +6,7 @@ AWS_ACCESS_KEY_ID=****
 AWS_SECRET_ACCESS_KEY=****
 AWS_DEFAULT_REGION=***
 
+
 terraform init
 terraform plan
 terraform apply -var-file="env-dev.tfvars"
